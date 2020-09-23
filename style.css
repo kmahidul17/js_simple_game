@@ -1,0 +1,24 @@
+.btns button{
+    padding: 8px 14px;
+    background-color: aquamarine;
+    border: none;
+    border-radius: 3px;
+    margin: 10px 8px;
+    color: black;
+    
+    
+    
+}
+
+.btns {
+    
+    width: 300px;
+    margin: 0 auto;
+    
+}
+
+button:focus{
+    outline: none;
+
+}
+
